@@ -1,4 +1,8 @@
 # jogoRoblox
+
+
+**REPOSITÓRIO EM CONTRUÇÃO E PARA TESTES NO GITHUB**
+
 Desenvolvendo um projeto de jogo 2d no Roblox Studio, junto com um aluno de 6 anos
 
 Vou registrar por aqui pra ficar mais facil de localizar. Vamos lá!
