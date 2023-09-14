@@ -1,10 +1,37 @@
-# jogoRoblox
+# Criando um Jogo Simples no Roblox
 
+Este é um tutorial passo a passo sobre como criar um jogo simples no Roblox.
 
-**REPOSITÓRIO EM CONTRUÇÃO E PARA TESTES NO GITHUB**
+## Passo 1: Conta no Roblox
 
-Desenvolvendo um projeto de jogo 2d no Roblox Studio, junto com um aluno de 6 anos
+Antes de começar, certifique-se de ter uma conta no [Roblox](https://www.roblox.com). Se você ainda não tem uma, você pode criar uma gratuitamente no site oficial.
 
-Vou registrar por aqui pra ficar mais facil de localizar. Vamos lá!
+## Passo 2: Baixe o Roblox Studio
 
-O jogo vai ser no estilo Mario, onde a visão do mapa fica fixa no personagem e o cenario vai mudando conforme ele vai para a frente. Como extra ele deve pegar moedas e enfrentar inimigos no caminho
+Baixe e instale o [Roblox Studio](https://developer.roblox.com/en-us/resources/studio) em seu computador. O Roblox Studio é a ferramenta usada para criar jogos no Roblox.
+
+## Passo 3: Abra o Roblox Studio
+
+Após a instalação, inicie o Roblox Studio.
+
+## Passo 4: Crie um Novo Jogo
+
+Clique em "Novo" para criar um novo lugar (o termo usado para designar um jogo no Roblox).
+
+## Passo 5: Personalize o Jogo
+
+Use as ferramentas do Roblox Studio para criar cenários, adicionar objetos, programar a lógica do jogo e personalizar a aparência dos personagens.
+
+## Passo 6: Scripting
+
+O Roblox usa uma linguagem de programação chamada Lua para criar scripts que controlam a lógica do jogo. Você pode adicionar scripts aos objetos para tornar o jogo interativo.
+
+## Passo 7: Teste o Jogo
+
+Use o botão "Play" no Roblox Studio para testar o seu jogo durante o desenvolvimento.
+
+## Passo 8: Publicação
+
+Quando o jogo estiver pronto, você pode publicá-lo no Roblox para que outras pessoas possam jogar.
+
+Consulte a documentação oficial do [Roblox Developer Hub](https://developer.roblox.com/en-us).
